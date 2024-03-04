@@ -1,6 +1,6 @@
 # TD_mapping_FR
 
-**Créer pour le mapping dans TouchDesigner**
+**Ou comment créer pour le mapping dans TouchDesigner**
 
 ## Introduction
 
